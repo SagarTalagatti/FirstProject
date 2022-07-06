@@ -5,3 +5,5 @@ Change: to check working of diff.
 Change: to fix bug1.
 
 Change: by team mate for CR1.test for 3-way merge with conflict.
+
+Change for bug2 to check 3-way merging with conflict.
