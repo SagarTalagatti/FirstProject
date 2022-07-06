@@ -12,3 +12,5 @@ Change:- by teammate for WI4 to check rebase with conflict.
 
 Change:- For CR2 to check rebase with conflict.
 
+Change:- For WI3 to check stash.
+
