@@ -1,5 +1,7 @@
 Welcome to git session.
 
-Change to check working of diff.
+Change to check working of diff. Something extra.
 
 Change to fix bug1.
+
+Change for bug2 to check 3-way merging with conflict.
