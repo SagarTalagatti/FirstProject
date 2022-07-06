@@ -1,11 +1,14 @@
 Welcome to git session.
 
-Change:- to check working of diff.
+Change:- To check working of diff.
 
-Change:- to fix bug1.
+Change:- To fix bug1.
 
-Change:- by team mate for CR1.test for 3-way merge with conflict.
+Change:- By team mate for CR1.test for 3-way merge with conflict.
 
-Change:- for bug2 to check 3-way merging with conflict.
+Change:- For bug2 to check 3-way merging with conflict.
 
 Change:- by teammate for WI4 to check rebase with conflict.
+
+Change:- For CR2 to check rebase with conflict.
+
